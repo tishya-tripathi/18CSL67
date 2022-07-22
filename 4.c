@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 int k = 0, z = 0, i = 0, j = 0, c = 0;
-char a[16] = {'i', 'd', '+', 'i', 'd', '*', 'i', 'd'}, ac[20], stk[15], act[10];
+char a[16] = {'i', 'd', '+', 'i', 'd', '*', 'i', 'd'};
+char ac[20], stk[15], act[10];
 void check();
 void main()
 {
